@@ -8,7 +8,7 @@ import AboutPage from "./pages/AboutPage";
 import ListPage from "./pages/ListPage";
 import Ionicons from "react-native-vector-icons/Ionicons";
 
-const Drawer = createDrawerNavigator();
+const Drawer   = createDrawerNavigator();
 
 export default function App() {
   return (
